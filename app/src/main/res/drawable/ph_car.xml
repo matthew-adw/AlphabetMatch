@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- TODO(ASSETS): placeholder colored box. Replace this file with real artwork for ph_car. -->
+    <path
+        android:fillColor="#EC407A" 
+        android:pathData="M14,0 L86,0 A14,14 0 0 1 100,14 L100,86 A14,14 0 0 1 86,100 L14,100 A14,14 0 0 1 0,86 L0,14 A14,14 0 0 1 14,0 Z" />
+</vector>
